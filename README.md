@@ -49,14 +49,14 @@ This installer provides an interactive version selection interface, automatic de
 ### Download the Script
 
 ```bash
-wget https://raw.githubusercontent.com/yourusername/yourrepo/main/install_python_universal.sh
-chmod +x install_python_universal.sh
+wget https://github.com/Appadon/py_installer/blob/main/py_installer.sh
+chmod +x py_installer.sh
 ```
 
 ### Run the Script
 
 ```bash
-sudo ./install_python_universal.sh
+sudo ./py_installer.sh
 ```
 
 ## Usage
