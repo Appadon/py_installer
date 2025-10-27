@@ -1,4 +1,4 @@
-# Python Universal Installer
+# Python Universal Linux Installer
 
 A robust bash script for installing Python from source on multiple Linux distributions.
 This installer provides an interactive version selection interface, automatic dependency management, and optimized compilation settings.
