@@ -49,7 +49,7 @@ This installer provides an interactive version selection interface, automatic de
 ### Download the Script
 
 ```bash
-wget https://github.com/Appadon/py_installer/blob/main/py_installer.sh
+wget https://raw.githubusercontent.com/Appadon/py_installer/main/py_installer.sh
 chmod +x py_installer.sh
 ```
 
